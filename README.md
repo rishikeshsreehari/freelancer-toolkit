@@ -15,6 +15,10 @@ A collection of essential resources for freelancers, including templates, tools,
 - [Agreement Template](https://davesmyth.studio/agreement) by Dave Smyth Studio
 ---
 ## Tools
+- [ScopeShield](https://scopecreep-app.surge.sh) - Track scope creep and generate change orders when clients add extra work
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated follow-up sequences for overdue invoices
+- [ContractGuard](https://contractguard-app.surge.sh) - Scan contracts for missing protection clauses before signing
+- [ProposalAI](https://proposalai-app.surge.sh) - Build winning project proposals faster
 Here are some useful tools for freelancers:
 - [Dillinger](https://dillinger.io/): Edit Markdown files with live preview.
 - [Invoice Generator](https://invoice-generator.com/): Quickly create and download professional invoices.
