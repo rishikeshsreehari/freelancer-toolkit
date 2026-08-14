@@ -32,7 +32,7 @@ Helpful articles and guides for freelancers:
 - [How to Start Your Freelancing Career](https://saurabhgarg.com/how-to-start-your-freelancing-career-in-2023/): Comprehensive guide on beginning your freelance journey.
 ---
 ## Contributing
-Have a suggestion for a useful tool, template, or job platform that could benefit other freelancers? Feel free to create a Pull Request! Your contributions help make the freelance community toolkit more valuable.
+Have a suggestion for a useful tool, template, or job platform that could benefit other freelancers? Feel free to create a Pull Request! Your contributions help make the freelance community more valuable.
 
 To contribute:
 1. Fork the repository
