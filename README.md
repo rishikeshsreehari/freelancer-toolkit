@@ -19,6 +19,7 @@ Here are some useful tools for freelancers:
 - [Dillinger](https://dillinger.io/): Edit Markdown files with live preview.
 - [Invoice Generator](https://invoice-generator.com/): Quickly create and download professional invoices.
 - [Docuseal](https://www.docuseal.co/): Document signing platform (free tier limited to $10/month, open source and self-hosted version available).
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/scope-creep-response-generator?utm_source=github&utm_medium=pr&utm_campaign=freelancer_toolkit&utm_content=tools): Free browser-only project pricing and scope-change response builder; the core workflow works without an account.
 ---
 ## Jobs
 Looking for freelance opportunities? Check out these platforms:
