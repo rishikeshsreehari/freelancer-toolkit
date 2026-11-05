@@ -29,6 +29,8 @@ Looking for freelance opportunities? Check out these platforms:
 ## Resources
 Helpful articles and guides for freelancers:
 - [How to Start Your Freelancing Career](https://saurabhgarg.com/how-to-start-your-freelancing-career-in-2023/): Comprehensive guide on beginning your freelance journey.
+- [Client Outreach Pipeline Kit (free sample)](https://emressp.github.io/pricewatch/kit/): Free 3-template cold-email sample plus paid ($19) tracker, 38 templates, rate card and proposal for freelancers.
+
 ---
 ## Contributing
 Have a suggestion for a useful tool, template, or job platform that could benefit other freelancers? Feel free to create a Pull Request! Your contributions help make this toolkit more valuable for the freelance community.
